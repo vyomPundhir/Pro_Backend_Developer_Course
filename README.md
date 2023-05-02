@@ -48,3 +48,13 @@
     - Either press `ctrl + D` once or press `ctrl + C` twice or type `.exit` in the currently opened cmd console
   - `Note:` MongoDB Shell CLI gets activated only when the mongoDB Server is up running, otherwise it will give error. So, in case of error while activating Shell CLI, just verify whether the MongoDB server is running or not
 ---
+- MongoDB in cloud - Atlas => `done`
+  - This video contains the basic overview of the cloud based MongoDB aka MongoDB Atlas
+  - This vdo might be helpful in case of working with the MongoDB Atlas bcz it gives the walkthrough as well as how to do the basic settings and stuff.
+  - But then Hitesh Sir recommended that it is better to work with MongoDB installed locally on the system so I'll go with local setup only.
+---
+- MongoDB GUI - Compass => `done` `Important`
+  - MongoDB Cmpass is a tool that helps us to give a visualization of the database and it gives us the advantage in debugging the code.
+  - This video is imp as it gives the overview of how to work with our databases using a GUI (MongoDB Compass)
+  - How to connect MongoDB Compass to a MongoDB Atlas Cluster => 2:17 to 5:00
+---
