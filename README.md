@@ -26,3 +26,25 @@
   - [MongoDB Shell (mongosh) Download Link](https://www.mongodb.com/try/download/shell)
   - [MongoDB Shell (mongosh) Installation Docs](https://www.mongodb.com/docs/mongodb-shell/install/)
   - `Keep in  mind to download both MongoDB Server as well as MongoDB Shell (Mongosh) in .msi format and not in .zip format bcz the task of adding the required binary to the PATH environment variables is being handled by .msi installer automatically but in case of .zip files, it needs to be done manually.`
+  - To start MongoDB Server: 
+    - Open cmd in `administrator` mode
+    - Then write the following command:
+    ```console
+    net start mongodb
+    ```
+  - To stop MongoDB Server: 
+    - Open cmd in `administrator` mode
+    - Then write the following command:
+    ```console
+    net stop mongodb
+    ```
+  - To run MongoDB Shell CLI:
+    - Open cmd in `normal` mode
+    - Then write the following command:
+    ```console
+    mongosh.exe
+    ```
+  - To exit from the MongoDB CLI:
+    - Either press `ctrl + D` once or press `ctrl + C` twice or type `.exit` in the currently opened cmd console
+  - `Note:` MongoDB Shell CLI gets activated only when the mongoDB Server is up running, otherwise it will give error. So, in case of error while activating Shell CLI, just verify whether the MongoDB server is running or not
+---
