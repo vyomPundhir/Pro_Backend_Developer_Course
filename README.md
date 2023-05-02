@@ -12,4 +12,17 @@
     - [YAML Tutorial by CloudBees](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
     - [YAML Crash Course by Hitesh Sir](https://www.youtube.com/watch?v=9BGWtTahGnw)
 ---
-
+- MongoDB Mac/Linux Installation => `done`
+  - Installation of MongoDB on Mac and Linux is similar so same video will work for both.
+  - [MongoDB Mac/Linux Installation according to Pro Backend Course](https://www.youtube.com/watch?v=MIByvzueqHQ)
+  - [MongoDB Mac Installation wrt to latest settings](https://www.youtube.com/watch?v=s1WQ0eEpqqg)
+  - `Keep in mind all the key pointers specified in the videos so that margin of error is minimum wrt installation`
+---
+- MongoDB windows install => `done`
+  - [MongoDB Windows Installation according to Pro Backend Course](https://www.youtube.com/watch?v=sluiQOXKUmQ)
+  - But there are some complexities wrt the Installation video given above. The Current Version of MongoDB that I have installed is 6.0.3 and in this version the Legacy MongoDB Shell is unavailable. So a new and enhanced MongoDB Shell aka `mongosh` need to be installed separately so that the MongoDB Servers could run properly.
+  - [MongoDB Server Community Edition Download Link](https://www.mongodb.com/try/download/community)
+  - [MongoDB Server Installation Docs](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
+  - [MongoDB Shell (mongosh) Download Link](https://www.mongodb.com/try/download/shell)
+  - [MongoDB Shell (mongosh) Installation Docs](https://www.mongodb.com/docs/mongodb-shell/install/)
+  - `Keep in  mind to download both MongoDB Server as well as MongoDB Shell (Mongosh) in .msi format and not in .zip format bcz the task of adding the required binary to the PATH environment variables is being handled by .msi installer automatically but in case of .zip files, it needs to be done manually.`
