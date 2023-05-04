@@ -1,4 +1,6 @@
-# Pro Backend Development Course from LCO## Section 1: Getting Started (6 Videos)
+# Pro Backend Development Course from LCO
+
+## Section 1: Getting Started (6 Videos)
 
 - Intro => `done`
   - A basic overview of the course is provided in this section.
@@ -87,4 +89,10 @@
       - Right Click and Drag to Move within the Drawing Space
       - Click on the Miro Icon in the top left corner to exit the drawing space
       - Click on the `?` Icon in the bottom right corner to access the tutorials
+---
+- Types of web requests => `done`
+
+  - [Types of Web Requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+---
+- Framework - Express, Koa, Hapi => `done`
 ---
