@@ -100,3 +100,8 @@
 ---
 - My 1st Express App => `done`
 ---
+- Request Response & Status Code => `done`
+
+  - [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+  - [Explanation about HTTP Cookies](https://www.youtube.com/watch?v=rdVPflECed8&t=181s)
+---
