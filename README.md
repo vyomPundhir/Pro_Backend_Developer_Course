@@ -105,3 +105,5 @@
   - [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
   - [Explanation about HTTP Cookies](https://www.youtube.com/watch?v=rdVPflECed8&t=181s)
 ---
+- All Social Routes => `done`
+---
