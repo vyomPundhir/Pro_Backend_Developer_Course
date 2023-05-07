@@ -89,6 +89,7 @@
       - Right Click and Drag to Move within the Drawing Space
       - Click on the Miro Icon in the top left corner to exit the drawing space
       - Click on the `?` Icon in the bottom right corner to access the tutorials
+    - Mind Mapping and Planning of [Basic Social App](https://miro.com/app/board/uXjVMM7caBM=/?share_link_id=935902147157) is provided.
 ---
 - Types of web requests => `done`
 
