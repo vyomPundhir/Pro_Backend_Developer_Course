@@ -112,3 +112,5 @@
 ---
 - Parameters and Bugs in Route => `done`
 ---
+- Pushing app to HEROKU => `done`
+---
