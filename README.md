@@ -114,3 +114,5 @@
 ---
 - Pushing app to HEROKU => `done`
 ---
+- Debug Social App in Production => `done`
+---
