@@ -116,3 +116,4 @@
 ---
 - Debug Social App in Production => `done`
 ---
+- Social App - Sandbox => `My code is similar to Hitesh Sir's Code`
