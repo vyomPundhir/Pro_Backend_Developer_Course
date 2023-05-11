@@ -124,3 +124,8 @@
   - [Specification Guidelines](https://swagger.io/specification/)
   - [**Basic Structure**](https://swagger.io/docs/specification/basic-structure/)
 ---
+- Nodemon ext & YAML Docs => `done`
+
+  - [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
+  - [swagger-jsdoc](https://www.npmjs.com/package/swagger-jsdoc) : Recommended when writing API Docs on top of every Route.
+  - [yamljs](https://www.npmjs.com/package/yamljs)
