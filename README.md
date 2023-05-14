@@ -137,3 +137,5 @@
 - Authentication token for swagger docs => `done`
   - In Swagger Docs, under the Servers, whichever URL is selected, all the requests will be going to that particular URL.
 ---
+- Docs for HTTP Methods Swagger => `done`
+---
