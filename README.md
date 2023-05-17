@@ -145,3 +145,5 @@
 ---
 - Authentication and Authorization - Swagger => `done`
 ---
+- String based GET Request - Swagger => `done`
+---
