@@ -151,3 +151,5 @@
 ---
 - Handling Array in Swagger Docs => `done`
 ---
+- Sending Data in URL - Swagger => `done`
+---
