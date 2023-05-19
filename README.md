@@ -149,3 +149,5 @@
 ---
 - Handling objects - Swagger => `done`
 ---
+- Handling Array in Swagger Docs => `done`
+---
