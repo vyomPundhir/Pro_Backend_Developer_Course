@@ -155,3 +155,5 @@
 ---
 - Managing Request Body in Swagger => `done`
 ---
+- Handle URL Query in Swagger => `done`
+---
