@@ -159,3 +159,5 @@
 ---
 - Handling Images in Swagger => `done`
 ---
+- Handling Header Tokens in Swagger => `done`
+---
