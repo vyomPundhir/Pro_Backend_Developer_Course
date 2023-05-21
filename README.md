@@ -157,3 +157,5 @@
 ---
 - Handle URL Query in Swagger => `done`
 ---
+- Handling Images in Swagger => `done`
+---
