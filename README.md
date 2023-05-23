@@ -161,3 +161,8 @@
 ---
 - Handling Header Tokens in Swagger => `done`
 ---
+
+## Section 4: Authentication (18 Videos + 1 SandBox) (SandBox is given only for reference)
+
+- Topics covered till Section 3 in Backend => `done`
+---
