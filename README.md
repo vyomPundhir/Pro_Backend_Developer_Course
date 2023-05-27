@@ -178,3 +178,5 @@
 ---
 - Creating Basic Structure for auth systems => `done`
 ---
+- Creating User Schema & Dotenv => `done`
+---
