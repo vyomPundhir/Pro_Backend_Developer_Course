@@ -180,3 +180,5 @@
 ---
 - Creating User Schema & Dotenv => `done`
 ---
+- Registering a User in Auth System => `done`
+---
