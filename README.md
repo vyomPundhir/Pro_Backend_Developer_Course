@@ -184,3 +184,5 @@
 ---
 - DataBase Connection in Auth System => `done`
 ---
+- What is a Middleware => `done`
+---
