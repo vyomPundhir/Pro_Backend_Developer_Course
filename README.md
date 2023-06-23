@@ -190,3 +190,6 @@
 ---
 - What is JWT & Creating Token => `done`
 ---
+- Register Route in Auth App => `done`
+---
+---
