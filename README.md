@@ -206,3 +206,5 @@
 ---
 - Cloudinary & EJS => `done`
 ---
+- How GET Works & PostMan Isues => `done`
+---
