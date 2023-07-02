@@ -220,3 +220,7 @@
 ---
 - Handling Multiple files & Uploading them => `done`
 ---
+## Section 6: Theory & Razorpay (7 Videos)
+
+- File Structure for Production App => `done`
+---
