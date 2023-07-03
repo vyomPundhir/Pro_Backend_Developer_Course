@@ -228,3 +228,5 @@
 ---
 - Error Handler & Promises => `done`
 ---
+- Sending Emails Using NodeMailer => `done`
+---
