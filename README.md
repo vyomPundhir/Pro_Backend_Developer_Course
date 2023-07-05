@@ -234,3 +234,4 @@
 ---
 - Razorpay Project => `done`
 --- 
+- Razorpay Front-End Integration => `done`
